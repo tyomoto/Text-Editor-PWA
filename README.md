@@ -2,7 +2,8 @@
 ## Module 18 Challenge
 
 ## Description
-
+This task was to develop a progressive web app that stores data in indexDB and can also be installed to you device. Here is the link to the live site!
+[Live Site](https://warm-meadow-36645.herokuapp.com/)
 
 ## User Story
 AS A developer
@@ -38,18 +39,13 @@ GIVEN a text editor web application
     - THEN I should have proper build scripts for a webpack application
 
 ## Installation
-First install all dependencies:
+To install all dependencies:
 ```
 npm install
 ```
-Start the program:
-```
-npm start
-```
 
-## Video Walkthrough
-This link will take you to the video walkthrough and demonstration on all the functioning routes.
-[Social Network API Walkthrough](https://drive.google.com/file/d/1ahO8kIyFhdPhncmRxNy0ReqAhRUbPrgx/view)
+## Screenshot
+![](./assets/working-app-screenshot.PNG)
 
 ## Website
-This [link](https://github.com/tyomoto/) will take you to the code repository on github.
+This [link](https://warm-meadow-36645.herokuapp.com/) will take you to the app deployed on heroku
